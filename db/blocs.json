@@ -1,0 +1,234 @@
+[
+ {
+   "rank": 16,
+   "fr_name": "Écarlate et Violet",
+   "en_name": "Scarlet & Violet",
+   "code": "SV",
+   "jap": false,
+   "jap_name": ""
+ },
+ {
+   "rank": 15,
+   "fr_name": "Épée et Bouclier",
+   "en_name": "Sword & Shield",
+   "code": "SS",
+   "jap": false,
+   "jap_name": ""
+ },
+ {
+   "rank": 14,
+   "fr_name": "Soleil et Lune",
+   "en_name": "Sun & Moon",
+   "code": "SM",
+   "jap": false,
+   "jap_name": ""
+ },
+ {
+   "rank": 13,
+   "fr_name": "XY",
+   "en_name": "XY",
+   "code": "XY",
+   "jap": false,
+   "jap_name": ""
+ },
+ {
+   "rank": 12,
+   "fr_name": "Noir et Blanc",
+   "en_name": "Black & White",
+   "code": "BW",
+   "jap": false,
+   "jap_name": ""
+ },
+ {
+   "rank": 11,
+   "fr_name": "HeartGold & SoulSilver",
+   "en_name": "HeartGold & SoulSilver",
+   "code": "HGSS",
+   "jap": false,
+   "jap_name": ""
+ },
+ {
+   "rank": 10,
+   "fr_name": "Platine",
+   "en_name": "Platinum",
+   "code": "PLAT",
+   "jap": false,
+   "jap_name": ""
+ },
+ {
+   "rank": 9,
+   "fr_name": "Diamant et Perle",
+   "en_name": "Diamond & Pearl",
+   "code": "DP",
+   "jap": false,
+   "jap_name": ""
+ },
+ {
+   "rank": 8,
+   "fr_name": "Ex",
+   "en_name": "Ex",
+   "code": "EX",
+   "jap": false,
+   "jap_name": ""
+ },
+ {
+   "rank": 7,
+   "fr_name": "E-Card",
+   "en_name": "E-Card",
+   "code": "EC",
+   "jap": false,
+   "jap_name": ""
+ },
+ {
+   "rank": 6,
+   "fr_name": "Neo",
+   "en_name": "Neo",
+   "code": "NEO",
+   "jap": false,
+   "jap_name": ""
+ },
+ {
+   "rank": 5,
+   "fr_name": "Gym",
+   "en_name": "Gym",
+   "code": "GYM",
+   "jap": false,
+   "jap_name": ""
+ },
+ {
+   "rank": 4,
+   "fr_name": "Base",
+   "en_name": "Base",
+   "code": "BASE",
+   "jap": false,
+   "jap_name": ""
+ },
+ {
+   "rank": 3,
+   "fr_name": "MacDonalds",
+   "en_name": "MacDonalds",
+   "code": "MD",
+   "jap": false,
+   "jap_name": ""
+ },
+ {
+   "rank": 2,
+   "fr_name": "POP",
+   "en_name": "POP",
+   "code": "POP",
+   "jap": false,
+   "jap_name": ""
+ },
+ {
+   "rank": 1,
+   "fr_name": "Autres",
+   "en_name": "Others",
+   "code": "OTH",
+   "jap": false,
+   "jap_name": ""
+ },
+ {
+   "rank": 13,
+   "fr_name": "",
+   "en_name": "Scarlet & Violet",
+   "code": "SV",
+   "jap": true,
+   "jap_name": ""
+ },
+ {
+   "rank": 12,
+   "fr_name": "",
+   "en_name": "Sword & Shield",
+   "code": "SS",
+   "jap": true,
+   "jap_name": ""
+ },
+ {
+   "rank": 11,
+   "fr_name": "",
+   "en_name": "Sun & Moon",
+   "code": "SM",
+   "jap": true,
+   "jap_name": ""
+ },
+ {
+   "rank": 10,
+   "fr_name": "",
+   "en_name": "XY",
+   "code": "XY",
+   "jap": true,
+   "jap_name": ""
+ },
+ {
+   "rank": 9,
+   "fr_name": "",
+   "en_name": "Black & White",
+   "code": "BW",
+   "jap": true,
+   "jap_name": ""
+ },
+ {
+   "rank": 8,
+   "fr_name": "",
+   "en_name": "Legend",
+   "code": "LEG",
+   "jap": true,
+   "jap_name": ""
+ },
+ {
+   "rank": 7,
+   "fr_name": "",
+   "en_name": "DPt",
+   "code": "DPT",
+   "jap": true,
+   "jap_name": ""
+ },
+ {
+   "rank": 6,
+   "fr_name": "",
+   "en_name": "Diamond & Pearl",
+   "code": "DP",
+   "jap": true,
+   "jap_name": ""
+ },
+ {
+   "rank": 5,
+   "fr_name": "",
+   "en_name": "PCG",
+   "code": "PCG",
+   "jap": true,
+   "jap_name": ""
+ },
+ {
+   "rank": 4,
+   "fr_name": "",
+   "en_name": "ADV",
+   "code": "ADV",
+   "jap": true,
+   "jap_name": ""
+ },
+ {
+   "rank": 3,
+   "fr_name": "",
+   "en_name": "E-Card",
+   "code": "EC",
+   "jap": true,
+   "jap_name": ""
+ },
+ {
+   "rank": 2,
+   "fr_name": "",
+   "en_name": "Neo",
+   "code": "NEO",
+   "jap": true,
+   "jap_name": ""
+ },
+ {
+   "rank": 1,
+   "fr_name": "",
+   "en_name": "Original",
+   "code": "ORI",
+   "jap": true,
+   "jap_name": ""
+ }
+]
