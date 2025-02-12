@@ -1,0 +1,842 @@
+[
+  {
+   "fr_name": "Aventure Ensemble",
+   "en_name": "Journey Together",
+   "code": "sv9",
+   "format": 36,
+   "fr_url": "https://mrjoshop.com/cdn/shop/files/Display_EV09_-_Aventure_Ensemble.jpg?v=1737727415",
+   "en_url": "https://www.guizettefamily.com/wp-content/uploads/2025/01/display-ev09-aventures-ensemble-1.png"
+ },
+ {
+   "fr_name": "Étincelles Déferlantes",
+   "en_name": "",
+   "code": "sv8",
+   "format": 36,
+   "fr_url": "https://tcg.pokemon.com/assets/img/sv-expansions/surging-sparks/collections/fr-fr/sv08-booster-display-fr-2x.png",
+   "en_url": "https://tcg.pokemon.com/assets/img/sv-expansions/surging-sparks/collections/en-us/sv08-booster-display-en-2x.png"
+ },
+ {
+   "fr_name": "Couronne Stellaire",
+   "en_name": "Stellar Crown",
+   "code": "sv7",
+   "format": 36,
+   "fr_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTuifw7dMhMxWXTmgdmEr8X9hvfzrhyxZrtLL40OcVS_VqYO_biARnK8wkZUhiDygI47Rwi6qkCbsz1sHQXhHhuAg0IcwEcCu5QyFW1qTGSHtg2g8eDuXBc",
+   "en_url": "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P9507_699-42279_01.jpg"
+ },
+ {
+   "fr_name": "Couronne Stellaire",
+   "en_name": "Stellar Crown",
+   "code": "sv7",
+   "format": 18,
+   "fr_url": "https://tcg.pokemon.com/assets/img/sv-expansions/stellar-crown/collections/fr-fr/sv07-booster-display-fr-2x.png",
+   "en_url": "https://www.bazaargames.nl/images/products/480x427/bb05_pok_stellar_crown_1.jpg"
+ },
+ {
+   "fr_name": "Mascarade Crépusculaire",
+   "en_name": "",
+   "code": "sv6",
+   "format": 36,
+   "fr_url": "https://tcg.pokemon.com/assets/img/sv-expansions/twilight-masquerade/collections/fr-fr/p9505-sv06-3d-booster-display-36ct-right-fr-2x.png",
+   "en_url": "https://tcg.pokemon.com/assets/img/sv-expansions/twilight-masquerade/collections/en-us/p9505-sv06-3d-booster-display-36ct-right-en-2x.png"
+ },
+ {
+   "fr_name": "Forces Temporelles",
+   "en_name": "",
+   "code": "sv5",
+   "format": 36,
+   "fr_url": "https://tcg.pokemon.com/assets/img/sv-expansions/temporal-forces/collections/fr-fr/P9504_SV05_3D_Booster_Display_Right_FR-2x.png",
+   "en_url": "https://tcg.pokemon.com/assets/img/sv-expansions/temporal-forces/collections/en-us/P9504_SV05_3D_Booster_Display_36ct_Right_EN-2x.png"
+ },
+ {
+   "fr_name": "Faille Paradoxe",
+   "en_name": "",
+   "code": "sv4",
+   "format": 36,
+   "fr_url": "https://tcg.pokemon.com/assets/img/sv-expansions/paradox-rift/collections/fr-fr/P8981_SV04_3D_Booster_Display_36ct_Left_FR-2x.png",
+   "en_url": "https://tcg.pokemon.com/assets/img/sv-expansions/paradox-rift/collections/en-us/P8981_SV04_3D_Booster_Display_36ct_Left_EN-2x.png"
+ },
+ {
+   "fr_name": "Flammes Obsidiennes",
+   "en_name": "Obsidian Flames",
+   "code": "sv3",
+   "format": 36,
+   "fr_url": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/collections/fr-fr/p8979-sv03-3d-booster-display-36ct-left-fr-2x.png",
+   "en_url": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/collections/en-us/p8979-sv03-3d-booster-display-36ct-left-en-2x.png"
+ },
+ {
+   "fr_name": "Évolutions à Paldea",
+   "en_name": "Paldea Evolved",
+   "code": "sv2",
+   "format": 36,
+   "fr_url": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/collections/fr-fr/P8798_SV02_3D_Booster_Display_36ct_Left_FR-2x.png",
+   "en_url": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/collections/en-us/P8798_SV02_3D_Booster_Display_36ct_Left_EN-2x.png"
+ },
+ {
+   "fr_name": "Écarlate et Violet",
+   "en_name": "Scarlet & Violet",
+   "code": "sv1",
+   "format": 36,
+   "fr_url": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/collections/fr-fr/p8908-sv01-3d-booster-display-fr-2x.png",
+   "en_url": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/collections/en-us/p8908-sv01-3d-booster-display-en-2x.png"
+ },
+ {
+   "fr_name": "Tempête Argentée",
+   "en_name": "Silver Tempest",
+   "code": "swsh12",
+   "format": 36,
+   "fr_url": "https://www.pokechange.net/uploads/dex/elements/DISPLAY/DISPLAY_1915217611_FR_IMG1_20230521-0819am.jpg",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Origine Perdue",
+   "en_name": "Lost Origin",
+   "code": "swsh11",
+   "format": 36,
+   "fr_url": "https://www.pokechange.net/uploads/dex/elements/DISPLAY/DISPLAY_1359328793_FR_IMG1_20230521-0816am.jpg",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Astres Radieux",
+   "en_name": "Astral Radiance",
+   "code": "swsh10",
+   "format": 36,
+   "fr_url": "https://www.pokechange.net/uploads/dex/elements/DISPLAY/DISPLAY_1399566182_FR_IMG1_20220626-1010am.png",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Stars Étincelantes",
+   "en_name": "Brilliant Stars",
+   "code": "swsh9",
+   "format": 36,
+   "fr_url": "https://www.pokechange.net/uploads/dex/elements/DISPLAY/DISPLAY_1937397328_FR_IMG1_20220223-0602pm.jpg",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Poing de Fusion",
+   "en_name": "Fusion Strike",
+   "code": "swsh8",
+   "format": 36,
+   "fr_url": "https://www.pokechange.net/uploads/dex/elements/DISPLAY/DISPLAY_1345244866_FR_IMG1_20211107-0826am.jpg",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Évolution Céleste",
+   "en_name": "Evolving Skies",
+   "code": "swsh7",
+   "format": 36,
+   "fr_url": "https://www.figurines-goodies.com/13346-large_default/lot-de-6-display-evolution-celeste-carte-pokemon-vf.jpg",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Règne de Glace",
+   "en_name": "Chilling Reign",
+   "code": "swsh6",
+   "format": 36,
+   "fr_url": "https://i.ebayimg.com/images/g/ik4AAOSwTOJlJvpF/s-l1600.jpg",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Styles de Combat",
+   "en_name": "Battle Styles",
+   "code": "swsh5",
+   "format": 36,
+   "fr_url": "https://www.pokechange.net/uploads/dex/elements/DISPLAY/DISPLAY_504980269_FR_IMG1_20210102-0613pm.jpg",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Voltage Éclatant",
+   "en_name": "Vivid Voltage",
+   "code": "swsh4",
+   "format": 36,
+   "fr_url": "https://www.pokechange.net/uploads/dex/elements/DISPLAY/DISPLAY_1570459615_FR_IMG1_20201107-0936am.jpg",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Ténèbres Embrasées",
+   "en_name": "Darkness Ablaze",
+   "code": "swsh3",
+   "format": 36,
+   "fr_url": "https://tcg.pokemon.com/assets/img/expansions/darkness-ablaze/collections/fr-fr/bdb-detail-1-2x.png",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Clash des Rebelles",
+   "en_name": "Rebel Clash",
+   "code": "swsh2",
+   "format": 36,
+   "fr_url": "https://tcg.pokemon.com/assets/img/expansions/rebel-clash/collections/fr-fr/booster-display-2x.png",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Épée et Bouclier",
+   "en_name": "Sword & Shield",
+   "code": "swsh1",
+   "format": 36,
+   "fr_url": "https://tcg.pokemon.com/assets/img/expansions/sword-shield/collections/fr-fr/booster-display-2x.png",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Éclipse Cosmique",
+   "en_name": "Cosmic Eclipse",
+   "code": "sm12",
+   "format": 36,
+   "fr_url": "https://www.pokechange.net/uploads/dex/elements/DISPLAY/DISPLAY_1218129548_FR_IMG1_20200201-0911am.png",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Harmonie des Esprits",
+   "en_name": "Unified Minds",
+   "code": "sm11",
+   "format": 36,
+   "fr_url": "https://www.pokechange.net/uploads/dex/elements/DISPLAY/DISPLAY_674953450_FR_IMG1_20200123-0948pm.jpg",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Alliance Infaillible",
+   "en_name": "Unbroken Bonds",
+   "code": "sm10",
+   "format": 36,
+   "fr_url": "https://www.pokechange.net/uploads/dex/elements/DISPLAY/DISPLAY_1168606690_FR_IMG1_20200123-0949pm.jpg",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Duo de Choc",
+   "en_name": "Team Up",
+   "code": "sm9",
+   "format": 36,
+   "fr_url": "https://www.pokechange.net/uploads/dex/elements/DISPLAY/DISPLAY_1728682158_FR_IMG1_20200128-0738am.jpg",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Tonnerre Perdu",
+   "en_name": "Lost Thunder",
+   "code": "sm8",
+   "format": 36,
+   "fr_url": "https://www.pokechange.net/uploads/dex/elements/DISPLAY/DISPLAY_1183528715_FR_IMG1_20200128-0739am.jpg",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Tempête Céleste",
+   "en_name": "Celestial Storm",
+   "code": "sm7",
+   "format": 36,
+   "fr_url": "https://www.pokechange.net/uploads/dex/elements/DISPLAY/DISPLAY_528872080_FR_IMG1_20200128-0740am.jpg",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Lumière Interdite",
+   "en_name": "Forbidden Light",
+   "code": "sm6",
+   "format": 36,
+   "fr_url": "https://www.pokechange.net/uploads/dex/elements/DISPLAY/DISPLAY_871584909_FR_IMG1_20200128-0741am.jpg",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Ultra Prisme",
+   "en_name": "Ultra Prism",
+   "code": "sm5",
+   "format": 36,
+   "fr_url": "https://www.pokechange.net/uploads/dex/elements/DISPLAY/DISPLAY_1973403441_FR_IMG1_20200128-0741am.jpg",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Invasion Carmin",
+   "en_name": "Crimson Invasion",
+   "code": "sm4",
+   "format": 36,
+   "fr_url": "https://www.pokechange.net/uploads/dex/elements/DISPLAY/DISPLAY_1306799118_FR_IMG1_20200128-0742am.jpg",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Ombres Ardentes",
+   "en_name": "Burning Shadows",
+   "code": "sm3",
+   "format": 36,
+   "fr_url": "https://www.pokechange.net/uploads/dex/elements/DISPLAY/DISPLAY_208891207_FR_IMG1_20200128-0748am.jpg",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Gardiens Ascendants",
+   "en_name": "Guardians Rising",
+   "code": "sm2",
+   "format": 36,
+   "fr_url": "https://www.pokechange.net/uploads/dex/elements/DISPLAY/DISPLAY_840993537_FR_IMG1_20200128-0743am.jpg",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Soleil & Lune",
+   "en_name": "Sun & Moon",
+   "code": "sm1",
+   "format": 36,
+   "fr_url": "https://www.pokechange.net/uploads/dex/elements/DISPLAY/DISPLAY_1010881868_FR_IMG1_20200128-0743am.jpg",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Évolutions",
+   "en_name": "Evolutions",
+   "code": "xy12",
+   "format": 36,
+   "fr_url": "https://www.pokechange.net/uploads/dex/elements/DISPLAY/DISPLAY_2137879951_FR_IMG1_20200216-1040am.jpg",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Offensive Vapeur",
+   "en_name": "Steam Siege",
+   "code": "xy11",
+   "format": 36,
+   "fr_url": "https://www.pokechange.net/uploads/dex/elements/DISPLAY/DISPLAY_263732117_FR_IMG1_20200216-1036am.png",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Impact des Destins",
+   "en_name": "Fates Collide",
+   "code": "xy10",
+   "format": 36,
+   "fr_url": "https://www.pokechange.net/uploads/dex/elements/DISPLAY/DISPLAY_1895213248_FR_IMG1_20200301-0839am.png",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Rupture Turbo",
+   "en_name": "BREAKpoint",
+   "code": "xy9",
+   "format": 36,
+   "fr_url": "https://www.pokechange.net/uploads/dex/elements/DISPLAY/DISPLAY_458274747_FR_IMG1_20200301-0839am.png",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Impulsion Turbo",
+   "en_name": "BREAKthrough",
+   "code": "xy8",
+   "format": 36,
+   "fr_url": "https://www.pikastore.fr/1026-large_default/-fr-pokemon-display-xy8-impulsion-turbo-36-boosters.jpg",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Origines Antiques",
+   "en_name": "Ancient Origins",
+   "code": "xy7",
+   "format": 36,
+   "fr_url": "https://www.pokechange.net/uploads/dex/elements/DISPLAY/DISPLAY_245203713_FR_IMG1_20200301-0851am.png",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Ciel Rugissant",
+   "en_name": "Roaring Skies",
+   "code": "xy6",
+   "format": 36,
+   "fr_url": "https://www.pokechange.net/uploads/dex/elements/DISPLAY/DISPLAY_1144566333_FR_IMG1_20200301-0853am.png",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Primo Choc",
+   "en_name": "Primal Clash",
+   "code": "xy5",
+   "format": 36,
+   "fr_url": "https://www.pokechange.net/uploads/dex/elements/DISPLAY/DISPLAY_686964846_FR_IMG1_20200301-0855am.png",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Vigueur Spectrale",
+   "en_name": "Phantom Forces",
+   "code": "xy4",
+   "format": 36,
+   "fr_url": "https://www.pokechange.net/uploads/dex/elements/DISPLAY/DISPLAY_1482685478_FR_IMG1_20200301-0900am.png",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Poings Furieux",
+   "en_name": "Furious Fists",
+   "code": "xy3",
+   "format": 36,
+   "fr_url": "https://th.bing.com/th?q=Coffret%20Pok%C3%A9mon%20Display%2036%20Boosters%20XY%20Poings%20Furieux%20XY03%20FR%20scell%C3%A9&w=400&h=400&c=7&pid=1.7&adlt=moderate&t=1",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Étincelles",
+   "en_name": "Flashfire",
+   "code": "xy2",
+   "format": 36,
+   "fr_url": "https://www.pokechange.net/uploads/dex/elements/DISPLAY/DISPLAY_220789463_FR_IMG1_20200301-0907am.png",
+   "en_url": ""
+ },
+ {
+   "fr_name": "XY",
+   "en_name": "XY",
+   "code": "xy1",
+   "format": 36,
+   "fr_url": "https://www.pokemarket.dk/images/poke_xy_booster_box.jpg",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Legendary Treasures",
+   "en_name": "Legendary Treasures",
+   "code": "bw11",
+   "format": 36,
+   "fr_url": "",
+   "en_url": "https://www.lotticards.de/media/image/product/10651/md/legendary-treasures-display.jpg"
+ },
+ {
+   "fr_name": "Explosion Plasma",
+   "en_name": "Plasma Blast",
+   "code": "bw10",
+   "format": 36,
+   "fr_url": "",
+   "en_url": "https://lh6.googleusercontent.com/proxy/wwkSzGdOqUDicoZnwW8LwWtHHTtDYNhRcfco5tyPq_-1GZV2A4RWbN2qHmTZid5lStG1QLoVbNT9R0exrpGFZ6tO8ueSmcxSbEtU"
+ },
+ {
+   "fr_name": "Glaciation Plasma",
+   "en_name": "Plasma Freeze",
+   "code": "bw9",
+   "format": 36,
+   "fr_url": "",
+   "en_url": "https://www.pokemarket.dk/images/poke_plasmafreezebox.jpg"
+ },
+ {
+   "fr_name": "Tempête Plasma",
+   "en_name": "Plasma Storm",
+   "code": "bw8",
+   "format": 36,
+   "fr_url": "https://www.pokepedia.fr/images/thumb/1/19/Image_Noir_%26_Blanc_Temp%C3%AAte_Plasma_JCC.png/300px-Image_Noir_%26_Blanc_Temp%C3%AAte_Plasma_JCC.png",
+   "en_url": "https://www.kelz0r.dk/magic/images/poke_bw_plastorm_bbox.jpg"
+ },
+ {
+   "fr_name": "Frontières Franchies",
+   "en_name": "Boundaries Crossed",
+   "code": "bw7",
+   "format": 36,
+   "fr_url": "https://www.pokepedia.fr/images/thumb/7/7e/Image_Noir_%26_Blanc_Fronti%C3%A8res_Franchies_JCC.png/300px-Image_Noir_%26_Blanc_Fronti%C3%A8res_Franchies_JCC.png",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Dragons Exaltés",
+   "en_name": "Dragons Exalted",
+   "code": "bw6",
+   "format": 36,
+   "fr_url": "https://www.ultrajeux.com/images/produits/maxi/7706.jpg",
+   "en_url": "https://images.stockx.com/images/2012-Pokemon-Black-and-White-Dragons-Exalted-Booster-Box.jpg?fit=fill&bg=FFFFFF&w=480&h=320&fm=webp&auto=compress&dpr=2&trim=color&updated_at=1606933610&q=60"
+ },
+ {
+   "fr_name": "Explorateurs Obscurs",
+   "en_name": "Dark Explorers",
+   "code": "bw5",
+   "format": 36,
+   "fr_url": "https://www.ultrajeux.com/images/produits/maxi/7462.jpg",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Destinées Futures",
+   "en_name": "Next Destinies",
+   "code": "bw4",
+   "format": 36,
+   "fr_url": "https://www.ultrajeux.com/images/produits/maxi/7138.jpg",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Nobles Victoires",
+   "en_name": "Noble Victories",
+   "code": "bw3",
+   "format": 36,
+   "fr_url": "https://www.ultrajeux.com/images/produits/maxi/6990.jpg",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Pouvoirs Émergeants",
+   "en_name": "Emerging Powers",
+   "code": "bw2",
+   "format": 36,
+   "fr_url": "https://nimescollections.com/12583-large_default/pokemon.jpg",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Noir & Blanc",
+   "en_name": "Black & White",
+   "code": "bw1",
+   "format": 36,
+   "fr_url": "",
+   "en_url": "https://www.kelz0r.dk/magic/images/pokemon_black_and_white_display.jpg"
+ },
+ {
+   "fr_name": "Appel des Légendes",
+   "en_name": "Call of Legends",
+   "code": "col1",
+   "format": 36,
+   "fr_url": "https://i.ebayimg.com/images/g/OFkAAOSwHl5j1agK/s-l1200.jpg",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Triomphe",
+   "en_name": "HS—Triumphant",
+   "code": "hgss4",
+   "format": null,
+   "fr_url": "",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Indomptable",
+   "en_name": "HS—Undaunted",
+   "code": "hgss3",
+   "format": null,
+   "fr_url": "",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Déchaînement",
+   "en_name": "HS—Unleashed",
+   "code": "hgss2",
+   "format": null,
+   "fr_url": "",
+   "en_url": ""
+ },
+ {
+   "fr_name": "HeartGold & SoulSilver",
+   "en_name": "HeartGold & SoulSilver",
+   "code": "hgss1",
+   "format": null,
+   "fr_url": "",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Arceus",
+   "en_name": "Arceus",
+   "code": "pl4",
+   "format": null,
+   "fr_url": "",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Vainqueurs Suprêmes",
+   "en_name": "Supreme Victors",
+   "code": "pl3",
+   "format": null,
+   "fr_url": "",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Rivaux Émergeants",
+   "en_name": "Rising Rivals",
+   "code": "pl2",
+   "format": null,
+   "fr_url": "",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Platine",
+   "en_name": "Platinum",
+   "code": "pl1",
+   "format": null,
+   "fr_url": "",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Tempête",
+   "en_name": "Stormfront",
+   "code": "dp7",
+   "format": null,
+   "fr_url": "",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Éveil des Légendes",
+   "en_name": "Legends Awakened",
+   "code": "dp6",
+   "format": null,
+   "fr_url": "",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Aube Majestueuse",
+   "en_name": "Majestic Dawn",
+   "code": "dp5",
+   "format": null,
+   "fr_url": "",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Duels au Sommet",
+   "en_name": "Great Encounters",
+   "code": "dp4",
+   "format": null,
+   "fr_url": "",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Merveilles Secrètes",
+   "en_name": "Secret Wonders",
+   "code": "dp3",
+   "format": null,
+   "fr_url": "",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Trésors Mystérieux",
+   "en_name": "Mysterious Treasures",
+   "code": "dp2",
+   "format": null,
+   "fr_url": "",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Diamant et Perle",
+   "en_name": "Diamond & Pearl",
+   "code": "dp1",
+   "format": null,
+   "fr_url": "",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Diamant et Perle Promos",
+   "en_name": "Diamond & Pearl Promos",
+   "code": "dpp",
+   "format": null,
+   "fr_url": "",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Gardiens du Pouvoir",
+   "en_name": "Power Keepers",
+   "code": "ex16",
+   "format": null,
+   "fr_url": "",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Île des Dragons",
+   "en_name": "Dragon Frontiers",
+   "code": "ex15",
+   "format": null,
+   "fr_url": "",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Gardiens de Cristal",
+   "en_name": "Crystal Guardians",
+   "code": "ex14",
+   "format": null,
+   "fr_url": "",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Fantômes Holon",
+   "en_name": "Holon Phantoms",
+   "code": "ex13",
+   "format": null,
+   "fr_url": "",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Créateurs de Légendes",
+   "en_name": "Legend Maker",
+   "code": "ex12",
+   "format": null,
+   "fr_url": "",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Espèces Delta",
+   "en_name": "Delta Species",
+   "code": "ex11",
+   "format": null,
+   "fr_url": "",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Forces Cachées",
+   "en_name": "Unseen Forces",
+   "code": "ex10",
+   "format": null,
+   "fr_url": "",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Emeraude",
+   "en_name": "Emerald",
+   "code": "ex9",
+   "format": null,
+   "fr_url": "",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Deoxys",
+   "en_name": "Deoxys",
+   "code": "ex8",
+   "format": null,
+   "fr_url": "",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Team Rocket Returns",
+   "en_name": "Team Rocket Returns",
+   "code": "ex7",
+   "format": null,
+   "fr_url": "",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Rouge Feu & Vert Feuille",
+   "en_name": "FireRed & LeafGreen",
+   "code": "ex6",
+   "format": null,
+   "fr_url": "",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Légendes Oubliées",
+   "en_name": "Hidden Legends",
+   "code": "ex5",
+   "format": null,
+   "fr_url": "",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Team Magma vs Team Aqua",
+   "en_name": "Team Magma vs Team Aqua",
+   "code": "ex4",
+   "format": null,
+   "fr_url": "",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Dragon",
+   "en_name": "Dragon",
+   "code": "ex3",
+   "format": null,
+   "fr_url": "",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Tempête de Sable",
+   "en_name": "Sandstorm",
+   "code": "ex2",
+   "format": null,
+   "fr_url": "",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Rubis & Saphir",
+   "en_name": "Ruby & Sapphire",
+   "code": "ex1",
+   "format": null,
+   "fr_url": "",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Skyridge",
+   "en_name": "Skyridge",
+   "code": "ecard3",
+   "format": null,
+   "fr_url": "",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Aquapolis",
+   "en_name": "Aquapolis",
+   "code": "ecard2",
+   "format": null,
+   "fr_url": "",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Expedition",
+   "en_name": "Expedition Base Set",
+   "code": "ecard1",
+   "format": null,
+   "fr_url": "",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Legendary Collection",
+   "en_name": "Legendary Collection",
+   "code": "base6",
+   "format": null,
+   "fr_url": "",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Neo Destiny",
+   "en_name": "Neo Destiny",
+   "code": "neo4",
+   "format": null,
+   "fr_url": "",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Neo Revelation",
+   "en_name": "Neo Revelation",
+   "code": "neo3",
+   "format": null,
+   "fr_url": "",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Neo Discovery",
+   "en_name": "Neo Discovery",
+   "code": "neo2",
+   "format": null,
+   "fr_url": "",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Neo Genesis",
+   "en_name": "Neo Genesis",
+   "code": "neo1",
+   "format": null,
+   "fr_url": "",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Gym Challenge",
+   "en_name": "Gym Challenge",
+   "code": "gym2",
+   "format": null,
+   "fr_url": "",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Gym Heroes",
+   "en_name": "Gym Heroes",
+   "code": "gym1",
+   "format": null,
+   "fr_url": "",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Team Rocket",
+   "en_name": "Team Rocket",
+   "code": "base5",
+   "format": null,
+   "fr_url": "",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Base Set 2",
+   "en_name": "Base Set 2",
+   "code": "base4",
+   "format": null,
+   "fr_url": "",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Fossil",
+   "en_name": "Fossil",
+   "code": "base3",
+   "format": null,
+   "fr_url": "",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Jungle",
+   "en_name": "Jungle",
+   "code": "base2",
+   "format": null,
+   "fr_url": "",
+   "en_url": ""
+ },
+ {
+   "fr_name": "Set de Base",
+   "en_name": "Base",
+   "code": "base1",
+   "format": null,
+   "fr_url": "",
+   "en_url": ""
+ },
+]
