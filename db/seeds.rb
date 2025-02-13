@@ -32,3 +32,31 @@ JSON.parse(json_text).each do |jap_bloc|
   end
 end
 puts Bloc.where(jap: true).count
+
+#expansions
+json_text = File.read(Rails.root.join('db', 'occi_lists','sv.json'))
+JSON.parse(json_text).each do |expansion|
+  existing_expansion = Expansion.find_by(code: expansion['code'])
+  if existing_expansion
+  	existing_expansion.update!(expansion)
+  else
+   Expansion.create!(rank: expansion['rank'],
+   	code: expansion['code'],   	
+   	fr_name: expansion['fr_name'],   	
+   	fr_release: expansion['fr_release'],  	
+   	en_name: expansion['en_name'],
+   	us_release: expansion['us_release'],
+   	jap_name: expansion['jap_name'],
+   	jap_release: expansion['jap_release'],
+   	classic_size: expansion['classic_size'],
+   	full_size: expansion['full_size'],
+   	category: expansion['category'],
+   	fr_logo_url: expansion['fr_logo_url'],
+   	en_logo_url: expansion['en_logo_url'],
+   	symbol_url: expansion['symbol_url'],
+   	bloc: Bloc.find_by(code: expansion['bloc_code'])
+   	)
+  end
+end
+puts Expansion.count
+

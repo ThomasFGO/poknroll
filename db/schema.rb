@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[7.1].define(version: 2025_02_12_104111) do
+ActiveRecord::Schema[7.1].define(version: 2025_02_13_172056) do
   create_table "blocs", force: :cascade do |t|
     t.integer "rank"
     t.string "code"
@@ -22,4 +22,26 @@ ActiveRecord::Schema[7.1].define(version: 2025_02_12_104111) do
     t.datetime "updated_at", null: false
   end
 
+  create_table "expansions", force: :cascade do |t|
+    t.integer "rank"
+    t.string "code"
+    t.string "fr_name"
+    t.string "fr_release"
+    t.string "en_name"
+    t.string "us_release"
+    t.string "jap_name"
+    t.string "jap_release"
+    t.integer "classic_size"
+    t.integer "full_size"
+    t.string "category"
+    t.string "fr_logo_url"
+    t.string "en_logo_url"
+    t.string "symbol_url"
+    t.integer "bloc_id", null: false
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["bloc_id"], name: "index_expansions_on_bloc_id"
+  end
+
+  add_foreign_key "expansions", "blocs"
 end
